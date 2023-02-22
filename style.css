@@ -27,7 +27,7 @@ body{
 }
 
 .principal{
-    background-image: url("/assest/Background.png"); /*usa quando é a imagem de fundo*/
+    background-image: url("Background.png"); /*usa quando é a imagem de fundo*/
     background-repeat: no-repeat; /*não repete a imagem  */
     background-size: contain; /* preenche toda a página */
     align-items: center;
